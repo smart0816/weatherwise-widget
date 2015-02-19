@@ -258,3 +258,4 @@ document.addEventListener('click', (e) => {
         document.getElementById('suggestions').style.display = 'none';
     }
 });
+// Weather API improvements
