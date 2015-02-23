@@ -259,3 +259,4 @@ document.addEventListener('click', (e) => {
     }
 });
 // Weather API improvements
+// Add geolocation fallback
